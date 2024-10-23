@@ -1,0 +1,31 @@
+html, body {
+background-color: black;
+  color: red;
+      font-family:  "Oswald", sans-serif;
+  margin: 1px;
+  margin-bottom: 30px;
+}
+  header{
+ font-family:"Sixtyfour Convergence", sans-serif;  
+  color: red;
+  display: flex;
+  border-bottom: solid  1px white;
+  position: relative;
+  margin: 20px;
+  font-size: 80px;
+}
+
+p{
+  text-align: justify;
+}
+  .inicio{
+  background: black; 
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  font-size: 30px;
+  }
+  
+  .video{
+    margin-right: 30px
+  }
